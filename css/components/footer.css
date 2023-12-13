@@ -1,0 +1,33 @@
+.footer h6 {
+  color: gray;
+  font-weight: 100;
+  font-size: medium;
+}
+
+.footer {
+  background-color: rgb(41, 39, 39);
+  height: 200px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.links a {
+  padding: 0px 25px;
+  color: rgb(88, 161, 88);
+  margin-top: 40px;
+}
+
+.links h6 {
+  margin: 0px;
+  padding: 0px;
+}

@@ -1,0 +1,21 @@
+/* banner */
+
+.banner {
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  color: white;
+  background-image: center;
+  padding: 150px 0;
+  text-align: left;
+}
+
+.banner h1, .banner p {
+  margin-left: 300px;
+}
+
+.banner p {
+  color: gray;
+  font-weight: 300;
+  font-size: larger;
+}
